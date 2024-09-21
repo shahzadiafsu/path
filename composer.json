@@ -1,9 +1,9 @@
 {
-  "name": "afsara/path",
+  "name": "fsmaker/path",
   "description": "Help with handling or manipulating file and directory path",
   "type": "library",
   "license": "MIT",
-  "keywords": ["path"],
+  "keywords": ["path", "filesystem", "fs"],
   "autoload": {
     "psr-4": {
       "Path\\": "src/"
