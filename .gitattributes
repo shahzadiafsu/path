@@ -11,8 +11,10 @@
 /doc                export-ignore
 /docs               export-ignore
 /tests              export-ignore
+/node_modules       export-ignore
 
 /AUTHORS.txt        export-ignore
 /CONTRIBUTING.md    export-ignore
+/README.md          export-ignore
 /SECURITY.md        export-ignore
 /CODE_OF_CONDUCT.md export-ignore
